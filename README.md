@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lordcommander3
+- 👋 Hi, I’m @Zaryab Shaikh
 - 👀 I’m interested in ... Web and App Development
 - 🌱 I’m currently learning ... html css and javascript
 
